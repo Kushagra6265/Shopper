@@ -1,4 +1,4 @@
-# **Shopper-A E-Commerce Website**
+# **Shopper- A E-Commerce Website**
 
 ## ***About:***
 A e-commerce website built using React.js, featuring a clean UI and functionality to browse and manage products. The project includes:
