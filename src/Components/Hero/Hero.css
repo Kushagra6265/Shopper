@@ -1,0 +1,79 @@
+.hero {
+     flex: 1;/* Prevents overflow caused by 100vw */
+    height: 100vh;
+    background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+    display: flex;
+    padding-top: 100px;
+    margin: 0;
+    box-sizing: border-box; /* Ensures padding doesn’t add extra width */
+    margin-left: -117px;
+    padding-left: 228px;
+}
+
+.hero-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+     /* Center content vertically */
+    align-items: flex-start; /* Align items to the start */
+    gap: 10px; /* Adjust gap as needed */
+     /* Space from the left */
+    line-height: 1.1;
+    padding-top: 80px;
+   
+    
+}
+.hero-left h2 {
+    color: #090909;
+    font-size: 24px;
+    font-weight: 500;
+}
+.hero-left p {
+    color: #171717;
+    font-size: 70px; /* Adjusted size */
+    font-weight: 500;
+    margin: 0; /* Remove default margin */
+}
+.hero-hand-icon {
+    display: flex;
+    align-items: center; /* Align items vertically in this row */
+    gap: 20px; /* Space between text and icon */
+}
+
+
+.hero-hand-icon img{
+    width: 80px;
+}
+
+.hero-latest-btn{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 15px;
+    width: 310px;
+    height: 60px;
+    border-radius:75px;
+    margin-top:30px;
+    background: #ff4141;
+    color:white;
+    font-size:22px;
+    font-weight: 500;
+
+}
+
+.hero-right{
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+
+.hero-right img {
+    width: 90%; /* Adjust the width as needed (e.g., 80% of the container) */
+    max-width: 450px; /* Optional: set a max-width to prevent it from getting too large */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: -60px;
+    margin-left: -20px; 
+    
+}
