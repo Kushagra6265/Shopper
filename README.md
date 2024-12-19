@@ -29,6 +29,7 @@ Technologies used:-
 Front-End Development:
 
 1.React.js
+
 2.CSS
 
 ##Installation and Setup:
