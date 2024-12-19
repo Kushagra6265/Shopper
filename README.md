@@ -5,7 +5,7 @@ A responsive e-commerce website built using React.js, featuring a clean UI and f
 1.Home Page: Showcases trending products and offers.
 2.Category Pages: Separate pages for Men, Women, and Kids products.
 3.Product Page: Includes an image gallery, product details, and related products.
-4.Shopping Cart: Allows users to manage selected items for purchase
+4.Shopping Cart: Allows users to manage selected items for purchase.
 
 ##Features
 1.Fully responsive design for all devices.
