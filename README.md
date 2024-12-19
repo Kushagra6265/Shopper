@@ -1,26 +1,40 @@
-#Shopper - Responsive E-Commerce Website
+Shopper - Responsive E-Commerce Website
 
-##About:
+About:
 A responsive e-commerce website built using React.js, featuring a clean UI and functionality to browse and manage products. The project includes:
+
 1.Home Page: Showcases trending products and offers.
+
 2.Category Pages: Separate pages for Men, Women, and Kids products.
+
 3.Product Page: Includes an image gallery, product details, and related products.
+
 4.Shopping Cart: Allows users to manage selected items for purchase.
 
-##Features
+Features:
+
 1.Fully responsive design for all devices.
+
 2.Easy navigation with category-based filtering.
+
 3.Detailed product pages with image galleries.
+
 4.Shopping cart functionality to manage items.
+
 5.Optimized performance with React components.
 
-##Technologies used:-
-###Front-End Development:
+
+Technologies used:-
+
+Front-End Development:
+
 1.React.js
 2.CSS
 
 ##Installation and Setup:
+
 To run the project locally, follow these steps:
+
 1.Clone the repository:
 git clone https://github.com/Kushagra6265/Shopper.git
 
