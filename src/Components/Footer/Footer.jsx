@@ -4,6 +4,8 @@ import footer_logo from '../Assets/logo_big.png'
 import instagram_icon from '../Assets/instagram_icon.png'
 import pintester_icon from '../Assets/pintester_icon.png'
 import whatsapp_icon from '../Assets/whatsapp_icon.png'
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
 const Footer = () => {
   return (
     <div className="footer">
@@ -34,8 +36,8 @@ const Footer = () => {
             <p>Copyright @2024 Kushagra Goswami. All rights reserved</p>
              <p>
     Connect with me on 
-    <a href="https://www.linkedin.com/in/kushagra-goswami-3a9698264/" target="_blank">
-      LinkedIn
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+      <i class="fab fa-linkedin"></i> LinkedIn
     </a>
   </p>
             
