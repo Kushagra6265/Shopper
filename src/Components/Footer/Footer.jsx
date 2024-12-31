@@ -31,7 +31,13 @@ const Footer = () => {
         </div>
         <div className="footer-copyright">
             <hr/>
-            <p>Copyright @ 2024-All Rights Reserved</p>
+            <p>Copyright @2024 Kushagra Goswami. All rights reserved</p>
+             <p>
+    Connect with me on 
+    <a href="https://www.linkedin.com/in/kushagra-goswami-3a9698264/" target="_blank">
+      LinkedIn
+    </a>
+  </p>
             
         </div>
     </div>
