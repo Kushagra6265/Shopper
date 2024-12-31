@@ -36,7 +36,7 @@ const Footer = () => {
             <p>Copyright @2024 Kushagra Goswami. All rights reserved</p>
              <p>
     Connect with me on 
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/kushagra-goswami-3a9698264/" target="_blank">
       LinkedIn
     </a>
   </p>
